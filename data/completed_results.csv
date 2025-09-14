@@ -1,0 +1,701 @@
+round,grand_prix,date,session,position,driver,team,points
+1,Australia,2025-03-16,qualifying,1,Lando Norris,McLaren,0
+1,Australia,2025-03-16,qualifying,2,Oscar Piastri,McLaren,0
+1,Australia,2025-03-16,qualifying,3,Max Verstappen,Red Bull,0
+1,Australia,2025-03-16,qualifying,4,George Russell,Mercedes,0
+1,Australia,2025-03-16,qualifying,5,Yuki Tsunoda,Racing Bulls,0
+1,Australia,2025-03-16,qualifying,6,Alexander Albon,Williams,0
+1,Australia,2025-03-16,qualifying,7,Charles Leclerc,Ferrari,0
+1,Australia,2025-03-16,qualifying,8,Lewis Hamilton,Ferrari,0
+1,Australia,2025-03-16,qualifying,9,Pierre Gasly,Alpine,0
+1,Australia,2025-03-16,qualifying,10,Carlos Sainz,Williams,0
+1,Australia,2025-03-16,qualifying,11,Isack Hadjar,Racing Bulls,0
+1,Australia,2025-03-16,qualifying,12,Gabriel Bortoleto,Kick Sauber,0
+1,Australia,2025-03-16,qualifying,13,Liam Lawson,Racing Bulls,0
+1,Australia,2025-03-16,qualifying,14,Jack Doohan,Alpine,0
+1,Australia,2025-03-16,qualifying,15,Fernando Alonso,Aston Martin,0
+1,Australia,2025-03-16,qualifying,16,Kimi Antonelli,Mercedes,0
+1,Australia,2025-03-16,qualifying,17,Esteban Ocon,Haas,0
+1,Australia,2025-03-16,qualifying,18,Oliver Bearman,Haas,0
+1,Australia,2025-03-16,qualifying,19,Nico Hulkenberg,Kick Sauber,0
+1,Australia,2025-03-16,qualifying,20,Gabriel Bortoleto,Kick Sauber,0
+1,Australia,2025-03-16,race,1,Lando Norris,McLaren,25
+1,Australia,2025-03-16,race,2,Max Verstappen,Red Bull,18
+1,Australia,2025-03-16,race,3,George Russell,Mercedes,15
+1,Australia,2025-03-16,race,4,Kimi Antonelli,Mercedes,12
+1,Australia,2025-03-16,race,5,Alexander Albon,Williams,10
+1,Australia,2025-03-16,race,6,Lance Stroll,Aston Martin,8
+1,Australia,2025-03-16,race,7,Nico Hulkenberg,Kick Sauber,6
+1,Australia,2025-03-16,race,8,Charles Leclerc,Ferrari,4
+1,Australia,2025-03-16,race,9,Oscar Piastri,McLaren,2
+1,Australia,2025-03-16,race,10,Lewis Hamilton,Ferrari,1
+1,Australia,2025-03-16,race,11,Pierre Gasly,Alpine,0
+1,Australia,2025-03-16,race,12,Yuki Tsunoda,Racing Bulls,0
+1,Australia,2025-03-16,race,13,Esteban Ocon,Haas,0
+1,Australia,2025-03-16,race,14,Oliver Bearman,Haas,0
+1,Australia,2025-03-16,race,15,Liam Lawson,Red Bull,0
+1,Australia,2025-03-16,race,16,Gabriel Bortoleto,Kick Sauber,0
+1,Australia,2025-03-16,race,17,Fernando Alonso,Aston Martin,0
+1,Australia,2025-03-16,race,18,Carlos Sainz,Williams,0
+1,Australia,2025-03-16,race,19,Jack Doohan,Alpine,0
+1,Australia,2025-03-16,race,20,Isack Hadjar,Racing Bulls,0
+2,China,2025-03-23,qualifying,1,Oscar Piastri,McLaren,0
+2,China,2025-03-23,qualifying,2,George Russell,Mercedes,0
+2,China,2025-03-23,qualifying,3,Lando Norris,McLaren,0
+2,China,2025-03-23,qualifying,4,Max Verstappen,Red Bull,0
+2,China,2025-03-23,qualifying,5,Lewis Hamilton,Ferrari,0
+2,China,2025-03-23,qualifying,6,Charles Leclerc,Ferrari,0
+2,China,2025-03-23,qualifying,7,Isack Hadjar,Racing Bulls,0
+2,China,2025-03-23,qualifying,8,Kimi Antonelli,Mercedes,0
+2,China,2025-03-23,qualifying,9,Yuki Tsunoda,Racing Bulls,0
+2,China,2025-03-23,qualifying,10,Alexander Albon,Williams,0
+2,China,2025-03-23,qualifying,11,Esteban Ocon,Haas,0
+2,China,2025-03-23,qualifying,12,Nico Hulkenberg,Kick Sauber,0
+2,China,2025-03-23,qualifying,13,Fernando Alonso,Aston Martin,0
+2,China,2025-03-23,qualifying,14,Lance Stroll,Aston Martin,0
+2,China,2025-03-23,qualifying,15,Carlos Sainz,Williams,0
+2,China,2025-03-23,qualifying,16,Pierre Gasly,Alpine,0
+2,China,2025-03-23,qualifying,17,Oliver Bearman,Haas,0
+2,China,2025-03-23,qualifying,18,Jack Doohan,Alpine,0
+2,China,2025-03-23,qualifying,19,Gabriel Bortoleto,Kick Sauber,0
+2,China,2025-03-23,qualifying,20,Liam Lawson,Racing Bulls,0
+2,China,2025-03-23,race,1,Oscar Piastri,McLaren,25
+2,China,2025-03-23,race,2,Lando Norris,McLaren,18
+2,China,2025-03-23,race,3,George Russell,Mercedes,15
+2,China,2025-03-23,race,4,Max Verstappen,Red Bull,12
+2,China,2025-03-23,race,5,Esteban Ocon,Haas,10
+2,China,2025-03-23,race,6,Kimi Antonelli,Mercedes,8
+2,China,2025-03-23,race,7,Alexander Albon,Williams,6
+2,China,2025-03-23,race,8,Oliver Bearman,Haas,4
+2,China,2025-03-23,race,9,Lance Stroll,Aston Martin,2
+2,China,2025-03-23,race,10,Carlos Sainz,Williams,1
+2,China,2025-03-23,race,11,Isack Hadjar,Racing Bulls,0
+2,China,2025-03-23,race,12,Liam Lawson,Red Bull,0
+2,China,2025-03-23,race,13,Jack Doohan,Alpine,0
+2,China,2025-03-23,race,14,Gabriel Bortoleto,Kick Sauber,0
+2,China,2025-03-23,race,15,Nico Hulkenberg,Kick Sauber,0
+2,China,2025-03-23,race,16,Yuki Tsunoda,Racing Bulls,0
+2,China,2025-03-23,race,17,Fernando Alonso,Aston Martin,0
+2,China,2025-03-23,race,18,Charles Leclerc,Ferrari,0
+2,China,2025-03-23,race,19,Lewis Hamilton,Ferrari,0
+2,China,2025-03-23,race,20,Pierre Gasly,Alpine,0
+3,Japan,2025-04-06,qualifying,1,Max Verstappen,Red Bull,0
+3,Japan,2025-04-06,qualifying,2,Lando Norris,McLaren,0
+3,Japan,2025-04-06,qualifying,3,Oscar Piastri,McLaren,0
+3,Japan,2025-04-06,qualifying,4,Charles Leclerc,Ferrari,0
+3,Japan,2025-04-06,qualifying,5,George Russell,Mercedes,0
+3,Japan,2025-04-06,qualifying,6,Kimi Antonelli,Mercedes,0
+3,Japan,2025-04-06,qualifying,7,Isack Hadjar,Racing Bulls,0
+3,Japan,2025-04-06,qualifying,8,Lewis Hamilton,Ferrari,0
+3,Japan,2025-04-06,qualifying,9,Alexander Albon,Williams,0
+3,Japan,2025-04-06,qualifying,10,Oliver Bearman,Haas,0
+3,Japan,2025-04-06,qualifying,11,Pierre Gasly,Alpine,0
+3,Japan,2025-04-06,qualifying,12,Fernando Alonso,Aston Martin,0
+3,Japan,2025-04-06,qualifying,13,Liam Lawson,Racing Bulls,0
+3,Japan,2025-04-06,qualifying,14,Yuki Tsunoda,Racing Bulls,0
+3,Japan,2025-04-06,qualifying,15,Carlos Sainz,Williams,0
+3,Japan,2025-04-06,qualifying,16,Nico Hulkenberg,Kick Sauber,0
+3,Japan,2025-04-06,qualifying,17,Gabriel Bortoleto,Kick Sauber,0
+3,Japan,2025-04-06,qualifying,18,Esteban Ocon,Haas,0
+3,Japan,2025-04-06,qualifying,19,Jack Doohan,Alpine,0
+3,Japan,2025-04-06,qualifying,20,Lance Stroll,Aston Martin,0
+3,Japan,2025-04-06,race,1,Max Verstappen,Red Bull,25
+3,Japan,2025-04-06,race,2,Lando Norris,McLaren,18
+3,Japan,2025-04-06,race,3,Oscar Piastri,McLaren,15
+3,Japan,2025-04-06,race,4,Charles Leclerc,Ferrari,12
+3,Japan,2025-04-06,race,5,George Russell,Mercedes,10
+3,Japan,2025-04-06,race,6,Kimi Antonelli,Mercedes,8
+3,Japan,2025-04-06,race,7,Lewis Hamilton,Ferrari,6
+3,Japan,2025-04-06,race,8,Isack Hadjar,Racing Bulls,4
+3,Japan,2025-04-06,race,9,Alexander Albon,Williams,2
+3,Japan,2025-04-06,race,10,Oliver Bearman,Haas,1
+3,Japan,2025-04-06,race,11,Fernando Alonso,Aston Martin,0
+3,Japan,2025-04-06,race,12,Yuki Tsunoda,Red Bull,0
+3,Japan,2025-04-06,race,13,Pierre Gasly,Alpine,0
+3,Japan,2025-04-06,race,14,Carlos Sainz,Williams,0
+3,Japan,2025-04-06,race,15,Jack Doohan,Alpine,0
+3,Japan,2025-04-06,race,16,Nico Hulkenberg,Kick Sauber,0
+3,Japan,2025-04-06,race,17,Liam Lawson,Racing Bulls,0
+3,Japan,2025-04-06,race,18,Esteban Ocon,Haas,0
+3,Japan,2025-04-06,race,19,Gabriel Bortoleto,Kick Sauber,0
+3,Japan,2025-04-06,race,20,Lance Stroll,Aston Martin,0
+4,Bahrain,2025-04-13,qualifying,1,Oscar Piastri,McLaren,0
+4,Bahrain,2025-04-13,qualifying,2,George Russell,Mercedes,0
+4,Bahrain,2025-04-13,qualifying,3,Charles Leclerc,Ferrari,0
+4,Bahrain,2025-04-13,qualifying,4,Kimi Antonelli,Mercedes,0
+4,Bahrain,2025-04-13,qualifying,5,Pierre Gasly,Alpine,0
+4,Bahrain,2025-04-13,qualifying,6,Lando Norris,McLaren,0
+4,Bahrain,2025-04-13,qualifying,7,Max Verstappen,Red Bull,0
+4,Bahrain,2025-04-13,qualifying,8,Carlos Sainz,Williams,0
+4,Bahrain,2025-04-13,qualifying,9,Lewis Hamilton,Ferrari,0
+4,Bahrain,2025-04-13,qualifying,10,Yuki Tsunoda,Racing Bulls,0
+4,Bahrain,2025-04-13,qualifying,11,Jack Doohan,Alpine,0
+4,Bahrain,2025-04-13,qualifying,12,Isack Hadjar,Racing Bulls,0
+4,Bahrain,2025-04-13,qualifying,13,Fernando Alonso,Aston Martin,0
+4,Bahrain,2025-04-13,qualifying,14,Esteban Ocon,Haas,0
+4,Bahrain,2025-04-13,qualifying,15,Alexander Albon,Williams,0
+4,Bahrain,2025-04-13,qualifying,16,Nico Hulkenberg,Kick Sauber,0
+4,Bahrain,2025-04-13,qualifying,17,Liam Lawson,Racing Bulls,0
+4,Bahrain,2025-04-13,qualifying,18,Gabriel Bortoleto,Kick Sauber,0
+4,Bahrain,2025-04-13,qualifying,19,Lance Stroll,Aston Martin,0
+4,Bahrain,2025-04-13,qualifying,20,Oliver Bearman,Haas,0
+4,Bahrain,2025-04-13,race,1,Oscar Piastri,McLaren,25
+4,Bahrain,2025-04-13,race,2,George Russell,Mercedes,18
+4,Bahrain,2025-04-13,race,3,Lando Norris,McLaren,15
+4,Bahrain,2025-04-13,race,4,Charles Leclerc,Ferrari,12
+4,Bahrain,2025-04-13,race,5,Lewis Hamilton,Ferrari,10
+4,Bahrain,2025-04-13,race,6,Max Verstappen,Red Bull,8
+4,Bahrain,2025-04-13,race,7,Pierre Gasly,Alpine,6
+4,Bahrain,2025-04-13,race,8,Esteban Ocon,Haas,4
+4,Bahrain,2025-04-13,race,9,Yuki Tsunoda,Red Bull,2
+4,Bahrain,2025-04-13,race,10,Oliver Bearman,Haas,1
+4,Bahrain,2025-04-13,race,11,Kimi Antonelli,Mercedes,0
+4,Bahrain,2025-04-13,race,12,Alexander Albon,Williams,0
+4,Bahrain,2025-04-13,race,13,Isack Hadjar,Racing Bulls,0
+4,Bahrain,2025-04-13,race,14,Jack Doohan,Alpine,0
+4,Bahrain,2025-04-13,race,15,Fernando Alonso,Aston Martin,0
+4,Bahrain,2025-04-13,race,16,Liam Lawson,Racing Bulls,0
+4,Bahrain,2025-04-13,race,17,Lance Stroll,Aston Martin,0
+4,Bahrain,2025-04-13,race,18,Gabriel Bortoleto,Kick Sauber,0
+4,Bahrain,2025-04-13,race,19,Carlos Sainz,Williams,0
+4,Bahrain,2025-04-13,race,20,Nico Hulkenberg,Kick Sauber,0
+5,Saudi Arabia,2025-04-20,qualifying,1,Max Verstappen,Red Bull,0
+5,Saudi Arabia,2025-04-20,qualifying,2,Oscar Piastri,McLaren,0
+5,Saudi Arabia,2025-04-20,qualifying,3,George Russell,Mercedes,0
+5,Saudi Arabia,2025-04-20,qualifying,4,Charles Leclerc,Ferrari,0
+5,Saudi Arabia,2025-04-20,qualifying,5,Kimi Antonelli,Mercedes,0
+5,Saudi Arabia,2025-04-20,qualifying,6,Carlos Sainz,Williams,0
+5,Saudi Arabia,2025-04-20,qualifying,7,Lewis Hamilton,Ferrari,0
+5,Saudi Arabia,2025-04-20,qualifying,8,Yuki Tsunoda,Racing Bulls,0
+5,Saudi Arabia,2025-04-20,qualifying,9,Pierre Gasly,Alpine,0
+5,Saudi Arabia,2025-04-20,qualifying,10,Lando Norris,McLaren,0
+5,Saudi Arabia,2025-04-20,qualifying,11,Alexander Albon,Williams,0
+5,Saudi Arabia,2025-04-20,qualifying,12,Liam Lawson,Racing Bulls,0
+5,Saudi Arabia,2025-04-20,qualifying,13,Fernando Alonso,Aston Martin,0
+5,Saudi Arabia,2025-04-20,qualifying,14,Isack Hadjar,Racing Bulls,0
+5,Saudi Arabia,2025-04-20,qualifying,15,Oliver Bearman,Haas,0
+5,Saudi Arabia,2025-04-20,qualifying,16,Lance Stroll,Aston Martin,0
+5,Saudi Arabia,2025-04-20,qualifying,17,Jack Doohan,Alpine,0
+5,Saudi Arabia,2025-04-20,qualifying,18,Nico Hulkenberg,Kick Sauber,0
+5,Saudi Arabia,2025-04-20,qualifying,19,Esteban Ocon,Haas,0
+5,Saudi Arabia,2025-04-20,qualifying,20,Gabriel Bortoleto,Kick Sauber,0
+5,Saudi Arabia,2025-04-20,race,1,Oscar Piastri,McLaren,25
+5,Saudi Arabia,2025-04-20,race,2,Max Verstappen,Red Bull,18
+5,Saudi Arabia,2025-04-20,race,3,Charles Leclerc,Ferrari,15
+5,Saudi Arabia,2025-04-20,race,4,Lando Norris,McLaren,12
+5,Saudi Arabia,2025-04-20,race,5,George Russell,Mercedes,10
+5,Saudi Arabia,2025-04-20,race,6,Kimi Antonelli,Mercedes,8
+5,Saudi Arabia,2025-04-20,race,7,Lewis Hamilton,Ferrari,6
+5,Saudi Arabia,2025-04-20,race,8,Carlos Sainz,Williams,4
+5,Saudi Arabia,2025-04-20,race,9,Alexander Albon,Williams,2
+5,Saudi Arabia,2025-04-20,race,10,Isack Hadjar,Racing Bulls,1
+5,Saudi Arabia,2025-04-20,race,11,Fernando Alonso,Aston Martin,0
+5,Saudi Arabia,2025-04-20,race,12,Liam Lawson,Racing Bulls,0
+5,Saudi Arabia,2025-04-20,race,13,Oliver Bearman,Haas,0
+5,Saudi Arabia,2025-04-20,race,14,Esteban Ocon,Haas,0
+5,Saudi Arabia,2025-04-20,race,15,Nico Hulkenberg,Kick Sauber,0
+5,Saudi Arabia,2025-04-20,race,16,Lance Stroll,Aston Martin,0
+5,Saudi Arabia,2025-04-20,race,17,Jack Doohan,Alpine,0
+5,Saudi Arabia,2025-04-20,race,18,Gabriel Bortoleto,Kick Sauber,0
+5,Saudi Arabia,2025-04-20,race,19,Yuki Tsunoda,Red Bull,0
+5,Saudi Arabia,2025-04-20,race,20,Pierre Gasly,Alpine,0
+6,Miami,2025-05-04,qualifying,1,Max Verstappen,Red Bull,0
+6,Miami,2025-05-04,qualifying,2,Lando Norris,McLaren,0
+6,Miami,2025-05-04,qualifying,3,Kimi Antonelli,Mercedes,0
+6,Miami,2025-05-04,qualifying,4,Oscar Piastri,McLaren,0
+6,Miami,2025-05-04,qualifying,5,George Russell,Mercedes,0
+6,Miami,2025-05-04,qualifying,6,Carlos Sainz,Williams,0
+6,Miami,2025-05-04,qualifying,7,Alexander Albon,Williams,0
+6,Miami,2025-05-04,qualifying,8,Charles Leclerc,Ferrari,0
+6,Miami,2025-05-04,qualifying,9,Esteban Ocon,Haas,0
+6,Miami,2025-05-04,qualifying,10,Yuki Tsunoda,Racing Bulls,0
+6,Miami,2025-05-04,qualifying,11,Isack Hadjar,Racing Bulls,0
+6,Miami,2025-05-04,qualifying,12,Lewis Hamilton,Ferrari,0
+6,Miami,2025-05-04,qualifying,13,Gabriel Bortoleto,Kick Sauber,0
+6,Miami,2025-05-04,qualifying,14,Jack Doohan,Alpine,0
+6,Miami,2025-05-04,qualifying,15,Liam Lawson,Racing Bulls,0
+6,Miami,2025-05-04,qualifying,16,Nico Hulkenberg,Kick Sauber,0
+6,Miami,2025-05-04,qualifying,17,Fernando Alonso,Aston Martin,0
+6,Miami,2025-05-04,qualifying,18,Pierre Gasly,Alpine,0
+6,Miami,2025-05-04,qualifying,19,Lance Stroll,Aston Martin,0
+6,Miami,2025-05-04,qualifying,20,Oliver Bearman,Haas,0
+6,Miami,2025-05-04,race,1,Oscar Piastri,McLaren,25
+6,Miami,2025-05-04,race,2,Lando Norris,McLaren,18
+6,Miami,2025-05-04,race,3,George Russell,Mercedes,15
+6,Miami,2025-05-04,race,4,Max Verstappen,Red Bull,12
+6,Miami,2025-05-04,race,5,Alexander Albon,Williams,10
+6,Miami,2025-05-04,race,6,Kimi Antonelli,Mercedes,8
+6,Miami,2025-05-04,race,7,Charles Leclerc,Ferrari,6
+6,Miami,2025-05-04,race,8,Lewis Hamilton,Ferrari,4
+6,Miami,2025-05-04,race,9,Carlos Sainz,Williams,2
+6,Miami,2025-05-04,race,10,Yuki Tsunoda,Red Bull,1
+6,Miami,2025-05-04,race,11,Isack Hadjar,Racing Bulls,0
+6,Miami,2025-05-04,race,12,Esteban Ocon,Haas,0
+6,Miami,2025-05-04,race,13,Pierre Gasly,Alpine,0
+6,Miami,2025-05-04,race,14,Nico Hulkenberg,Kick Sauber,0
+6,Miami,2025-05-04,race,15,Fernando Alonso,Aston Martin,0
+6,Miami,2025-05-04,race,16,Lance Stroll,Aston Martin,0
+6,Miami,2025-05-04,race,17,Liam Lawson,Racing Bulls,0
+6,Miami,2025-05-04,race,18,Gabriel Bortoleto,Kick Sauber,0
+6,Miami,2025-05-04,race,19,Oliver Bearman,Haas,0
+6,Miami,2025-05-04,race,20,Jack Doohan,Alpine,0
+7,Emilia Romagna,2025-05-18,qualifying,1,Oscar Piastri,McLaren,0
+7,Emilia Romagna,2025-05-18,qualifying,2,Max Verstappen,Red Bull,0
+7,Emilia Romagna,2025-05-18,qualifying,3,George Russell,Mercedes,0
+7,Emilia Romagna,2025-05-18,qualifying,4,Lando Norris,McLaren,0
+7,Emilia Romagna,2025-05-18,qualifying,5,Fernando Alonso,Aston Martin,0
+7,Emilia Romagna,2025-05-18,qualifying,6,Carlos Sainz,Williams,0
+7,Emilia Romagna,2025-05-18,qualifying,7,Alexander Albon,Williams,0
+7,Emilia Romagna,2025-05-18,qualifying,8,Lance Stroll,Aston Martin,0
+7,Emilia Romagna,2025-05-18,qualifying,9,Isack Hadjar,Racing Bulls,0
+7,Emilia Romagna,2025-05-18,qualifying,10,Pierre Gasly,Alpine,0
+7,Emilia Romagna,2025-05-18,qualifying,11,Charles Leclerc,Ferrari,0
+7,Emilia Romagna,2025-05-18,qualifying,12,Lewis Hamilton,Ferrari,0
+7,Emilia Romagna,2025-05-18,qualifying,13,Yuki Tsunoda,Racing Bulls,0
+7,Emilia Romagna,2025-05-18,qualifying,14,Jack Doohan,Alpine,0
+7,Emilia Romagna,2025-05-18,qualifying,15,Oliver Bearman,Haas,0
+7,Emilia Romagna,2025-05-18,qualifying,16,Gabriel Bortoleto,Kick Sauber,0
+7,Emilia Romagna,2025-05-18,qualifying,17,Nico Hulkenberg,Kick Sauber,0
+7,Emilia Romagna,2025-05-18,qualifying,18,Esteban Ocon,Haas,0
+7,Emilia Romagna,2025-05-18,qualifying,19,Franco Colapinto,Alpine,0
+7,Emilia Romagna,2025-05-18,qualifying,20,Max Verstappen,Red Bull,0
+7,Emilia Romagna,2025-05-18,race,1,Max Verstappen,Red Bull,25
+7,Emilia Romagna,2025-05-18,race,2,Lando Norris,McLaren,18
+7,Emilia Romagna,2025-05-18,race,3,Oscar Piastri,McLaren,15
+7,Emilia Romagna,2025-05-18,race,4,Lewis Hamilton,Ferrari,12
+7,Emilia Romagna,2025-05-18,race,5,Alexander Albon,Williams,10
+7,Emilia Romagna,2025-05-18,race,6,Charles Leclerc,Ferrari,8
+7,Emilia Romagna,2025-05-18,race,7,George Russell,Mercedes,6
+7,Emilia Romagna,2025-05-18,race,8,Carlos Sainz,Williams,4
+7,Emilia Romagna,2025-05-18,race,9,Isack Hadjar,Racing Bulls,2
+7,Emilia Romagna,2025-05-18,race,10,Yuki Tsunoda,Red Bull,1
+7,Emilia Romagna,2025-05-18,race,11,Fernando Alonso,Aston Martin,0
+7,Emilia Romagna,2025-05-18,race,12,Nico Hulkenberg,Kick Sauber,0
+7,Emilia Romagna,2025-05-18,race,13,Pierre Gasly,Alpine,0
+7,Emilia Romagna,2025-05-18,race,14,Liam Lawson,Racing Bulls,0
+7,Emilia Romagna,2025-05-18,race,15,Lance Stroll,Aston Martin,0
+7,Emilia Romagna,2025-05-18,race,16,Franco Colapinto,Alpine,0
+7,Emilia Romagna,2025-05-18,race,17,Oliver Bearman,Haas,0
+7,Emilia Romagna,2025-05-18,race,18,Gabriel Bortoleto,Kick Sauber,0
+7,Emilia Romagna,2025-05-18,race,19,Kimi Antonelli,Mercedes,0
+7,Emilia Romagna,2025-05-18,race,20,Esteban Ocon,Haas,0
+8,Monaco,2025-05-25,qualifying,1,Lando Norris,McLaren,0
+8,Monaco,2025-05-25,qualifying,2,Charles Leclerc,Ferrari,0
+8,Monaco,2025-05-25,qualifying,3,Oscar Piastri,McLaren,0
+8,Monaco,2025-05-25,qualifying,4,Lewis Hamilton,Ferrari,0
+8,Monaco,2025-05-25,qualifying,5,Max Verstappen,Red Bull,0
+8,Monaco,2025-05-25,qualifying,6,Isack Hadjar,Racing Bulls,0
+8,Monaco,2025-05-25,qualifying,7,Fernando Alonso,Aston Martin,0
+8,Monaco,2025-05-25,qualifying,8,Esteban Ocon,Haas,0
+8,Monaco,2025-05-25,qualifying,9,Liam Lawson,Racing Bulls,0
+8,Monaco,2025-05-25,qualifying,10,Alexander Albon,Williams,0
+8,Monaco,2025-05-25,qualifying,11,Carlos Sainz,Williams,0
+8,Monaco,2025-05-25,qualifying,12,Yuki Tsunoda,Racing Bulls,0
+8,Monaco,2025-05-25,qualifying,13,Nico Hulkenberg,Kick Sauber,0
+8,Monaco,2025-05-25,qualifying,14,George Russell,Mercedes,0
+8,Monaco,2025-05-25,qualifying,15,Kimi Antonelli,Mercedes,0
+8,Monaco,2025-05-25,qualifying,16,Gabriel Bortoleto,Kick Sauber,0
+8,Monaco,2025-05-25,qualifying,17,Oliver Bearman,Haas,0
+8,Monaco,2025-05-25,qualifying,18,Pierre Gasly,Alpine,0
+8,Monaco,2025-05-25,qualifying,19,Lance Stroll,Aston Martin,0
+8,Monaco,2025-05-25,qualifying,20,Franco Colapinto,Alpine,0
+8,Monaco,2025-05-25,race,1,Lando Norris,McLaren,25
+8,Monaco,2025-05-25,race,2,Charles Leclerc,Ferrari,18
+8,Monaco,2025-05-25,race,3,Oscar Piastri,McLaren,15
+8,Monaco,2025-05-25,race,4,Max Verstappen,Red Bull,12
+8,Monaco,2025-05-25,race,5,Lewis Hamilton,Ferrari,10
+8,Monaco,2025-05-25,race,6,Isack Hadjar,Racing Bulls,8
+8,Monaco,2025-05-25,race,7,Esteban Ocon,Haas,6
+8,Monaco,2025-05-25,race,8,Liam Lawson,Racing Bulls,4
+8,Monaco,2025-05-25,race,9,Alexander Albon,Williams,2
+8,Monaco,2025-05-25,race,10,Carlos Sainz,Williams,1
+8,Monaco,2025-05-25,race,11,George Russell,Mercedes,0
+8,Monaco,2025-05-25,race,12,Oliver Bearman,Haas,0
+8,Monaco,2025-05-25,race,13,Franco Colapinto,Alpine,0
+8,Monaco,2025-05-25,race,14,Gabriel Bortoleto,Kick Sauber,0
+8,Monaco,2025-05-25,race,15,Lance Stroll,Aston Martin,0
+8,Monaco,2025-05-25,race,16,Nico Hulkenberg,Kick Sauber,0
+8,Monaco,2025-05-25,race,17,Yuki Tsunoda,Red Bull,0
+8,Monaco,2025-05-25,race,18,Kimi Antonelli,Mercedes,0
+8,Monaco,2025-05-25,race,19,Fernando Alonso,Aston Martin,0
+8,Monaco,2025-05-25,race,20,Pierre Gasly,Alpine,0
+9,Spain,2025-06-01,qualifying,1,Oscar Piastri,McLaren,0
+9,Spain,2025-06-01,qualifying,2,Lando Norris,McLaren,0
+9,Spain,2025-06-01,qualifying,3,Max Verstappen,Red Bull,0
+9,Spain,2025-06-01,qualifying,4,George Russell,Mercedes,0
+9,Spain,2025-06-01,qualifying,5,Lewis Hamilton,Ferrari,0
+9,Spain,2025-06-01,qualifying,6,Kimi Antonelli,Mercedes,0
+9,Spain,2025-06-01,qualifying,7,Charles Leclerc,Ferrari,0
+9,Spain,2025-06-01,qualifying,8,Pierre Gasly,Alpine,0
+9,Spain,2025-06-01,qualifying,9,Isack Hadjar,Racing Bulls,0
+9,Spain,2025-06-01,qualifying,10,Fernando Alonso,Aston Martin,0
+9,Spain,2025-06-01,qualifying,11,Alexander Albon,Williams,0
+9,Spain,2025-06-01,qualifying,12,Gabriel Bortoleto,Kick Sauber,0
+9,Spain,2025-06-01,qualifying,13,Liam Lawson,Racing Bulls,0
+9,Spain,2025-06-01,qualifying,14,Lance Stroll,Aston Martin,0
+9,Spain,2025-06-01,qualifying,15,Oliver Bearman,Haas,0
+9,Spain,2025-06-01,qualifying,16,Nico Hulkenberg,Kick Sauber,0
+9,Spain,2025-06-01,qualifying,17,Esteban Ocon,Haas,0
+9,Spain,2025-06-01,qualifying,18,Carlos Sainz,Williams,0
+9,Spain,2025-06-01,qualifying,19,Franco Colapinto,Alpine,0
+9,Spain,2025-06-01,qualifying,20,Yuki Tsunoda,Racing Bulls,0
+9,Spain,2025-06-01,race,1,Oscar Piastri,McLaren,25
+9,Spain,2025-06-01,race,2,Lando Norris,McLaren,18
+9,Spain,2025-06-01,race,3,Charles Leclerc,Ferrari,15
+9,Spain,2025-06-01,race,4,George Russell,Mercedes,12
+9,Spain,2025-06-01,race,5,Nico Hulkenberg,Kick Sauber,10
+9,Spain,2025-06-01,race,6,Lewis Hamilton,Ferrari,8
+9,Spain,2025-06-01,race,7,Isack Hadjar,Racing Bulls,6
+9,Spain,2025-06-01,race,8,Pierre Gasly,Alpine,4
+9,Spain,2025-06-01,race,9,Fernando Alonso,Aston Martin,2
+9,Spain,2025-06-01,race,10,Max Verstappen,Red Bull,1
+9,Spain,2025-06-01,race,11,Liam Lawson,Racing Bulls,0
+9,Spain,2025-06-01,race,12,Gabriel Bortoleto,Kick Sauber,0
+9,Spain,2025-06-01,race,13,Yuki Tsunoda,Red Bull,0
+9,Spain,2025-06-01,race,14,Carlos Sainz,Williams,0
+9,Spain,2025-06-01,race,15,Franco Colapinto,Alpine,0
+9,Spain,2025-06-01,race,16,Esteban Ocon,Haas,0
+9,Spain,2025-06-01,race,17,Oliver Bearman,Haas,0
+9,Spain,2025-06-01,race,18,Kimi Antonelli,Mercedes,0
+9,Spain,2025-06-01,race,19,Alexander Albon,Williams,0
+9,Spain,2025-06-01,race,20,Lance Stroll,Aston Martin,0
+10,Canada,2025-06-15,qualifying,1,George Russell,Mercedes,0
+10,Canada,2025-06-15,qualifying,2,Max Verstappen,Red Bull,0
+10,Canada,2025-06-15,qualifying,3,Oscar Piastri,McLaren,0
+10,Canada,2025-06-15,qualifying,4,Kimi Antonelli,Mercedes,0
+10,Canada,2025-06-15,qualifying,5,Lewis Hamilton,Ferrari,0
+10,Canada,2025-06-15,qualifying,6,Fernando Alonso,Aston Martin,0
+10,Canada,2025-06-15,qualifying,7,Lando Norris,McLaren,0
+10,Canada,2025-06-15,qualifying,8,Charles Leclerc,Ferrari,0
+10,Canada,2025-06-15,qualifying,9,Isack Hadjar,Racing Bulls,0
+10,Canada,2025-06-15,qualifying,10,Alexander Albon,Williams,0
+10,Canada,2025-06-15,qualifying,11,Yuki Tsunoda,Racing Bulls,0
+10,Canada,2025-06-15,qualifying,12,Franco Colapinto,Alpine,0
+10,Canada,2025-06-15,qualifying,13,Nico Hulkenberg,Kick Sauber,0
+10,Canada,2025-06-15,qualifying,14,Oliver Bearman,Haas,0
+10,Canada,2025-06-15,qualifying,15,Esteban Ocon,Haas,0
+10,Canada,2025-06-15,qualifying,16,Gabriel Bortoleto,Kick Sauber,0
+10,Canada,2025-06-15,qualifying,17,Carlos Sainz,Williams,0
+10,Canada,2025-06-15,qualifying,18,Lance Stroll,Aston Martin,0
+10,Canada,2025-06-15,qualifying,19,Liam Lawson,Racing Bulls,0
+10,Canada,2025-06-15,qualifying,20,Pierre Gasly,Alpine,0
+10,Canada,2025-06-15,race,1,George Russell,Mercedes,25
+10,Canada,2025-06-15,race,2,Max Verstappen,Red Bull,18
+10,Canada,2025-06-15,race,3,Kimi Antonelli,Mercedes,15
+10,Canada,2025-06-15,race,4,Oscar Piastri,McLaren,12
+10,Canada,2025-06-15,race,5,Charles Leclerc,Ferrari,10
+10,Canada,2025-06-15,race,6,Lewis Hamilton,Ferrari,8
+10,Canada,2025-06-15,race,7,Fernando Alonso,Aston Martin,6
+10,Canada,2025-06-15,race,8,Nico Hulkenberg,Kick Sauber,4
+10,Canada,2025-06-15,race,9,Esteban Ocon,Haas,2
+10,Canada,2025-06-15,race,10,Carlos Sainz,Williams,1
+10,Canada,2025-06-15,race,11,Oliver Bearman,Haas,0
+10,Canada,2025-06-15,race,12,Yuki Tsunoda,Red Bull,0
+10,Canada,2025-06-15,race,13,Franco Colapinto,Alpine,0
+10,Canada,2025-06-15,race,14,Gabriel Bortoleto,Kick Sauber,0
+10,Canada,2025-06-15,race,15,Pierre Gasly,Alpine,0
+10,Canada,2025-06-15,race,16,Isack Hadjar,Racing Bulls,0
+10,Canada,2025-06-15,race,17,Lance Stroll,Aston Martin,0
+10,Canada,2025-06-15,race,18,Lando Norris,McLaren,0
+10,Canada,2025-06-15,race,19,Liam Lawson,Racing Bulls,0
+10,Canada,2025-06-15,race,20,Alexander Albon,Williams,0
+11,Austria,2025-06-29,qualifying,1,Lando Norris,McLaren,0
+11,Austria,2025-06-29,qualifying,2,Charles Leclerc,Ferrari,0
+11,Austria,2025-06-29,qualifying,3,Oscar Piastri,McLaren,0
+11,Austria,2025-06-29,qualifying,4,Lewis Hamilton,Ferrari,0
+11,Austria,2025-06-29,qualifying,5,George Russell,Mercedes,0
+11,Austria,2025-06-29,qualifying,6,Liam Lawson,Racing Bulls,0
+11,Austria,2025-06-29,qualifying,7,Max Verstappen,Red Bull,0
+11,Austria,2025-06-29,qualifying,8,Gabriel Bortoleto,Kick Sauber,0
+11,Austria,2025-06-29,qualifying,9,Kimi Antonelli,Mercedes,0
+11,Austria,2025-06-29,qualifying,10,Pierre Gasly,Alpine,0
+11,Austria,2025-06-29,qualifying,11,Fernando Alonso,Aston Martin,0
+11,Austria,2025-06-29,qualifying,12,Alexander Albon,Williams,0
+11,Austria,2025-06-29,qualifying,13,Isack Hadjar,Racing Bulls,0
+11,Austria,2025-06-29,qualifying,14,Franco Colapinto,Alpine,0
+11,Austria,2025-06-29,qualifying,15,Oliver Bearman,Haas,0
+11,Austria,2025-06-29,qualifying,16,Lance Stroll,Aston Martin,0
+11,Austria,2025-06-29,qualifying,17,Esteban Ocon,Haas,0
+11,Austria,2025-06-29,qualifying,18,Yuki Tsunoda,Racing Bulls,0
+11,Austria,2025-06-29,qualifying,19,Carlos Sainz,Williams,0
+11,Austria,2025-06-29,qualifying,20,Nico Hulkenberg,Kick Sauber,0
+11,Austria,2025-06-29,race,1,Lando Norris,McLaren,25
+11,Austria,2025-06-29,race,2,Oscar Piastri,McLaren,18
+11,Austria,2025-06-29,race,3,Charles Leclerc,Ferrari,15
+11,Austria,2025-06-29,race,4,Lewis Hamilton,Ferrari,12
+11,Austria,2025-06-29,race,5,George Russell,Mercedes,10
+11,Austria,2025-06-29,race,6,Liam Lawson,Racing Bulls,8
+11,Austria,2025-06-29,race,7,Fernando Alonso,Aston Martin,6
+11,Austria,2025-06-29,race,8,Gabriel Bortoleto,Kick Sauber,4
+11,Austria,2025-06-29,race,9,Nico Hulkenberg,Kick Sauber,2
+11,Austria,2025-06-29,race,10,Esteban Ocon,Haas,1
+11,Austria,2025-06-29,race,11,Oliver Bearman,Haas,0
+11,Austria,2025-06-29,race,12,Isack Hadjar,Racing Bulls,0
+11,Austria,2025-06-29,race,13,Pierre Gasly,Alpine,0
+11,Austria,2025-06-29,race,14,Lance Stroll,Aston Martin,0
+11,Austria,2025-06-29,race,15,Franco Colapinto,Alpine,0
+11,Austria,2025-06-29,race,16,Yuki Tsunoda,Red Bull,0
+11,Austria,2025-06-29,race,17,Alexander Albon,Williams,0
+11,Austria,2025-06-29,race,18,Max Verstappen,Red Bull,0
+11,Austria,2025-06-29,race,19,Kimi Antonelli,Mercedes,0
+11,Austria,2025-06-29,race,20,Carlos Sainz,Williams,0
+12,Great Britain,2025-07-06,qualifying,1,Max Verstappen,Red Bull,0
+12,Great Britain,2025-07-06,qualifying,2,Oscar Piastri,McLaren,0
+12,Great Britain,2025-07-06,qualifying,3,Lando Norris,McLaren,0
+12,Great Britain,2025-07-06,qualifying,4,George Russell,Mercedes,0
+12,Great Britain,2025-07-06,qualifying,5,Lewis Hamilton,Ferrari,0
+12,Great Britain,2025-07-06,qualifying,6,Charles Leclerc,Ferrari,0
+12,Great Britain,2025-07-06,qualifying,7,Kimi Antonelli,Mercedes,0
+12,Great Britain,2025-07-06,qualifying,8,Oliver Bearman,Haas,0
+12,Great Britain,2025-07-06,qualifying,9,Fernando Alonso,Aston Martin,0
+12,Great Britain,2025-07-06,qualifying,10,Pierre Gasly,Alpine,0
+12,Great Britain,2025-07-06,qualifying,11,Carlos Sainz,Williams,0
+12,Great Britain,2025-07-06,qualifying,12,Yuki Tsunoda,Racing Bulls,0
+12,Great Britain,2025-07-06,qualifying,13,Isack Hadjar,Racing Bulls,0
+12,Great Britain,2025-07-06,qualifying,14,Alexander Albon,Williams,0
+12,Great Britain,2025-07-06,qualifying,15,Esteban Ocon,Haas,0
+12,Great Britain,2025-07-06,qualifying,16,Liam Lawson,Racing Bulls,0
+12,Great Britain,2025-07-06,qualifying,17,Gabriel Bortoleto,Kick Sauber,0
+12,Great Britain,2025-07-06,qualifying,18,Lance Stroll,Aston Martin,0
+12,Great Britain,2025-07-06,qualifying,19,Nico Hulkenberg,Kick Sauber,0
+12,Great Britain,2025-07-06,qualifying,20,Franco Colapinto,Alpine,0
+12,Great Britain,2025-07-06,race,1,Lando Norris,McLaren,25
+12,Great Britain,2025-07-06,race,2,Oscar Piastri,McLaren,18
+12,Great Britain,2025-07-06,race,3,Nico Hulkenberg,Kick Sauber,15
+12,Great Britain,2025-07-06,race,4,Lewis Hamilton,Ferrari,12
+12,Great Britain,2025-07-06,race,5,Max Verstappen,Red Bull,10
+12,Great Britain,2025-07-06,race,6,Pierre Gasly,Alpine,8
+12,Great Britain,2025-07-06,race,7,Lance Stroll,Aston Martin,6
+12,Great Britain,2025-07-06,race,8,Alexander Albon,Williams,4
+12,Great Britain,2025-07-06,race,9,Fernando Alonso,Aston Martin,2
+12,Great Britain,2025-07-06,race,10,George Russell,Mercedes,1
+12,Great Britain,2025-07-06,race,11,Oliver Bearman,Haas,0
+12,Great Britain,2025-07-06,race,12,Carlos Sainz,Williams,0
+12,Great Britain,2025-07-06,race,13,Esteban Ocon,Haas,0
+12,Great Britain,2025-07-06,race,14,Charles Leclerc,Ferrari,0
+12,Great Britain,2025-07-06,race,15,Yuki Tsunoda,Red Bull,0
+12,Great Britain,2025-07-06,race,16,Kimi Antonelli,Mercedes,0
+12,Great Britain,2025-07-06,race,17,Isack Hadjar,Racing Bulls,0
+12,Great Britain,2025-07-06,race,18,Gabriel Bortoleto,Kick Sauber,0
+12,Great Britain,2025-07-06,race,19,Liam Lawson,Racing Bulls,0
+12,Great Britain,2025-07-06,race,20,Franco Colapinto,Alpine,0
+13,Belgium,2025-07-27,qualifying,1,Lando Norris,McLaren,0
+13,Belgium,2025-07-27,qualifying,2,Oscar Piastri,McLaren,0
+13,Belgium,2025-07-27,qualifying,3,Charles Leclerc,Ferrari,0
+13,Belgium,2025-07-27,qualifying,4,Max Verstappen,Red Bull,0
+13,Belgium,2025-07-27,qualifying,5,Alexander Albon,Williams,0
+13,Belgium,2025-07-27,qualifying,6,George Russell,Mercedes,0
+13,Belgium,2025-07-27,qualifying,7,Yuki Tsunoda,Racing Bulls,0
+13,Belgium,2025-07-27,qualifying,8,Isack Hadjar,Racing Bulls,0
+13,Belgium,2025-07-27,qualifying,9,Liam Lawson,Racing Bulls,0
+13,Belgium,2025-07-27,qualifying,10,Gabriel Bortoleto,Kick Sauber,0
+13,Belgium,2025-07-27,qualifying,11,Esteban Ocon,Haas,0
+13,Belgium,2025-07-27,qualifying,12,Oliver Bearman,Haas,0
+13,Belgium,2025-07-27,qualifying,13,Pierre Gasly,Alpine,0
+13,Belgium,2025-07-27,qualifying,14,Nico Hulkenberg,Kick Sauber,0
+13,Belgium,2025-07-27,qualifying,15,Carlos Sainz,Williams,0
+13,Belgium,2025-07-27,qualifying,16,Lewis Hamilton,Ferrari,0
+13,Belgium,2025-07-27,qualifying,17,Franco Colapinto,Alpine,0
+13,Belgium,2025-07-27,qualifying,18,Kimi Antonelli,Mercedes,0
+13,Belgium,2025-07-27,qualifying,19,Fernando Alonso,Aston Martin,0
+13,Belgium,2025-07-27,qualifying,20,Lance Stroll,Aston Martin,0
+13,Belgium,2025-07-27,race,1,Oscar Piastri,McLaren,25
+13,Belgium,2025-07-27,race,2,Lando Norris,McLaren,18
+13,Belgium,2025-07-27,race,3,Charles Leclerc,Ferrari,15
+13,Belgium,2025-07-27,race,4,Max Verstappen,Red Bull,12
+13,Belgium,2025-07-27,race,5,George Russell,Mercedes,10
+13,Belgium,2025-07-27,race,6,Alexander Albon,Williams,8
+13,Belgium,2025-07-27,race,7,Lewis Hamilton,Ferrari,6
+13,Belgium,2025-07-27,race,8,Liam Lawson,Racing Bulls,4
+13,Belgium,2025-07-27,race,9,Gabriel Bortoleto,Kick Sauber,2
+13,Belgium,2025-07-27,race,10,Pierre Gasly,Alpine,1
+13,Belgium,2025-07-27,race,11,Oliver Bearman,Haas,0
+13,Belgium,2025-07-27,race,12,Nico Hulkenberg,Kick Sauber,0
+13,Belgium,2025-07-27,race,13,Yuki Tsunoda,Red Bull,0
+13,Belgium,2025-07-27,race,14,Lance Stroll,Aston Martin,0
+13,Belgium,2025-07-27,race,15,Esteban Ocon,Haas,0
+13,Belgium,2025-07-27,race,16,Kimi Antonelli,Mercedes,0
+13,Belgium,2025-07-27,race,17,Fernando Alonso,Aston Martin,0
+13,Belgium,2025-07-27,race,18,Carlos Sainz,Williams,0
+13,Belgium,2025-07-27,race,19,Franco Colapinto,Alpine,0
+13,Belgium,2025-07-27,race,20,Isack Hadjar,Racing Bulls,0
+14,Hungary,2025-08-03,qualifying,1,Charles Leclerc,Ferrari,0
+14,Hungary,2025-08-03,qualifying,2,Oscar Piastri,McLaren,0
+14,Hungary,2025-08-03,qualifying,3,Lando Norris,McLaren,0
+14,Hungary,2025-08-03,qualifying,4,George Russell,Mercedes,0
+14,Hungary,2025-08-03,qualifying,5,Fernando Alonso,Aston Martin,0
+14,Hungary,2025-08-03,qualifying,6,Lance Stroll,Aston Martin,0
+14,Hungary,2025-08-03,qualifying,7,Gabriel Bortoleto,Kick Sauber,0
+14,Hungary,2025-08-03,qualifying,8,Max Verstappen,Red Bull,0
+14,Hungary,2025-08-03,qualifying,9,Liam Lawson,Racing Bulls,0
+14,Hungary,2025-08-03,qualifying,10,Isack Hadjar,Racing Bulls,0
+14,Hungary,2025-08-03,qualifying,11,Oliver Bearman,Haas,0
+14,Hungary,2025-08-03,qualifying,12,Lewis Hamilton,Ferrari,0
+14,Hungary,2025-08-03,qualifying,13,Carlos Sainz,Williams,0
+14,Hungary,2025-08-03,qualifying,14,Franco Colapinto,Alpine,0
+14,Hungary,2025-08-03,qualifying,15,Kimi Antonelli,Mercedes,0
+14,Hungary,2025-08-03,qualifying,16,Pierre Gasly,Alpine,0
+14,Hungary,2025-08-03,qualifying,17,Esteban Ocon,Haas,0
+14,Hungary,2025-08-03,qualifying,18,Yuki Tsunoda,Racing Bulls,0
+14,Hungary,2025-08-03,qualifying,19,Nico Hulkenberg,Kick Sauber,0
+14,Hungary,2025-08-03,qualifying,20,Alexander Albon,Williams,0
+14,Hungary,2025-08-03,race,1,Lando Norris,McLaren,25
+14,Hungary,2025-08-03,race,2,Oscar Piastri,McLaren,18
+14,Hungary,2025-08-03,race,3,George Russell,Mercedes,15
+14,Hungary,2025-08-03,race,4,Charles Leclerc,Ferrari,12
+14,Hungary,2025-08-03,race,5,Fernando Alonso,Aston Martin,10
+14,Hungary,2025-08-03,race,6,Gabriel Bortoleto,Kick Sauber,8
+14,Hungary,2025-08-03,race,7,Lance Stroll,Aston Martin,6
+14,Hungary,2025-08-03,race,8,Liam Lawson,Racing Bulls,4
+14,Hungary,2025-08-03,race,9,Max Verstappen,Red Bull,2
+14,Hungary,2025-08-03,race,10,Kimi Antonelli,Mercedes,1
+14,Hungary,2025-08-03,race,11,Isack Hadjar,Racing Bulls,0
+14,Hungary,2025-08-03,race,12,Lewis Hamilton,Ferrari,0
+14,Hungary,2025-08-03,race,13,Nico Hulkenberg,Kick Sauber,0
+14,Hungary,2025-08-03,race,14,Carlos Sainz,Williams,0
+14,Hungary,2025-08-03,race,15,Alexander Albon,Williams,0
+14,Hungary,2025-08-03,race,16,Esteban Ocon,Haas,0
+14,Hungary,2025-08-03,race,17,Yuki Tsunoda,Red Bull,0
+14,Hungary,2025-08-03,race,18,Franco Colapinto,Alpine,0
+14,Hungary,2025-08-03,race,19,Pierre Gasly,Alpine,0
+14,Hungary,2025-08-03,race,20,Oliver Bearman,Haas,0
+15,Netherlands,2025-08-24,qualifying,1,Oscar Piastri,McLaren,0
+15,Netherlands,2025-08-24,qualifying,2,Lando Norris,McLaren,0
+15,Netherlands,2025-08-24,qualifying,3,Max Verstappen,Red Bull,0
+15,Netherlands,2025-08-24,qualifying,4,Isack Hadjar,Racing Bulls,0
+15,Netherlands,2025-08-24,qualifying,5,George Russell,Mercedes,0
+15,Netherlands,2025-08-24,qualifying,6,Charles Leclerc,Ferrari,0
+15,Netherlands,2025-08-24,qualifying,7,Lewis Hamilton,Ferrari,0
+15,Netherlands,2025-08-24,qualifying,8,Liam Lawson,Racing Bulls,0
+15,Netherlands,2025-08-24,qualifying,9,Carlos Sainz,Williams,0
+15,Netherlands,2025-08-24,qualifying,10,Fernando Alonso,Aston Martin,0
+15,Netherlands,2025-08-24,qualifying,11,Kimi Antonelli,Mercedes,0
+15,Netherlands,2025-08-24,qualifying,12,Yuki Tsunoda,Racing Bulls,0
+15,Netherlands,2025-08-24,qualifying,13,Gabriel Bortoleto,Kick Sauber,0
+15,Netherlands,2025-08-24,qualifying,14,Pierre Gasly,Alpine,0
+15,Netherlands,2025-08-24,qualifying,15,Alexander Albon,Williams,0
+15,Netherlands,2025-08-24,qualifying,16,Franco Colapinto,Alpine,0
+15,Netherlands,2025-08-24,qualifying,17,Nico Hulkenberg,Kick Sauber,0
+15,Netherlands,2025-08-24,qualifying,18,Esteban Ocon,Haas,0
+15,Netherlands,2025-08-24,qualifying,19,Oliver Bearman,Haas,0
+15,Netherlands,2025-08-24,qualifying,20,Lance Stroll,Aston Martin,0
+15,Netherlands,2025-08-24,race,1,Oscar Piastri,McLaren,25
+15,Netherlands,2025-08-24,race,2,Max Verstappen,Red Bull,18
+15,Netherlands,2025-08-24,race,3,Isack Hadjar,Racing Bulls,15
+15,Netherlands,2025-08-24,race,4,George Russell,Mercedes,12
+15,Netherlands,2025-08-24,race,5,Alexander Albon,Williams,10
+15,Netherlands,2025-08-24,race,6,Kimi Antonelli,Mercedes,8
+15,Netherlands,2025-08-24,race,7,Oliver Bearman,Haas,6
+15,Netherlands,2025-08-24,race,8,Lance Stroll,Aston Martin,4
+15,Netherlands,2025-08-24,race,9,Fernando Alonso,Aston Martin,2
+15,Netherlands,2025-08-24,race,10,Yuki Tsunoda,Red Bull,1
+15,Netherlands,2025-08-24,race,11,Esteban Ocon,Haas,0
+15,Netherlands,2025-08-24,race,12,Franco Colapinto,Alpine,0
+15,Netherlands,2025-08-24,race,13,Liam Lawson,Racing Bulls,0
+15,Netherlands,2025-08-24,race,14,Carlos Sainz,Williams,0
+15,Netherlands,2025-08-24,race,15,Nico Hulkenberg,Kick Sauber,0
+15,Netherlands,2025-08-24,race,16,Pierre Gasly,Alpine,0
+15,Netherlands,2025-08-24,race,17,Gabriel Bortoleto,Kick Sauber,0
+15,Netherlands,2025-08-24,race,18,Lando Norris,McLaren,0
+15,Netherlands,2025-08-24,race,19,Charles Leclerc,Ferrari,0
+15,Netherlands,2025-08-24,race,20,Lewis Hamilton,Ferrari,0
+16,Italy,2025-09-07,qualifying,1,Max Verstappen,Red Bull,0
+16,Italy,2025-09-07,qualifying,2,Lando Norris,McLaren,0
+16,Italy,2025-09-07,qualifying,3,Oscar Piastri,McLaren,0
+16,Italy,2025-09-07,qualifying,4,Charles Leclerc,Ferrari,0
+16,Italy,2025-09-07,qualifying,5,George Russell,Mercedes,0
+16,Italy,2025-09-07,qualifying,6,Kimi Antonelli,Mercedes,0
+16,Italy,2025-09-07,qualifying,7,Gabriel Bortoleto,Kick Sauber,0
+16,Italy,2025-09-07,qualifying,8,Fernando Alonso,Aston Martin,0
+16,Italy,2025-09-07,qualifying,9,Yuki Tsunoda,Racing Bulls,0
+16,Italy,2025-09-07,qualifying,10,Lewis Hamilton,Ferrari,0
+16,Italy,2025-09-07,qualifying,11,Oliver Bearman,Haas,0
+16,Italy,2025-09-07,qualifying,12,Nico Hulkenberg,Kick Sauber,0
+16,Italy,2025-09-07,qualifying,13,Carlos Sainz,Williams,0
+16,Italy,2025-09-07,qualifying,14,Alexander Albon,Williams,0
+16,Italy,2025-09-07,qualifying,15,Esteban Ocon,Haas,0
+16,Italy,2025-09-07,qualifying,16,Lance Stroll,Aston Martin,0
+16,Italy,2025-09-07,qualifying,17,Franco Colapinto,Alpine,0
+16,Italy,2025-09-07,qualifying,18,Liam Lawson,Racing Bulls,0
+16,Italy,2025-09-07,qualifying,19,Isack Hadjar,Racing Bulls,0
+16,Italy,2025-09-07,qualifying,20,Pierre Gasly,Alpine,0
+16,Italy,2025-09-07,race,1,Max Verstappen,Red Bull,25
+16,Italy,2025-09-07,race,2,Lando Norris,McLaren,18
+16,Italy,2025-09-07,race,3,Oscar Piastri,McLaren,15
+16,Italy,2025-09-07,race,4,Charles Leclerc,Ferrari,12
+16,Italy,2025-09-07,race,5,George Russell,Mercedes,10
+16,Italy,2025-09-07,race,6,Lewis Hamilton,Ferrari,8
+16,Italy,2025-09-07,race,7,Alexander Albon,Williams,6
+16,Italy,2025-09-07,race,8,Gabriel Bortoleto,Kick Sauber,4
+16,Italy,2025-09-07,race,9,Kimi Antonelli,Mercedes,2
+16,Italy,2025-09-07,race,10,Isack Hadjar,Racing Bulls,1
+16,Italy,2025-09-07,race,11,Carlos Sainz,Williams,0
+16,Italy,2025-09-07,race,12,Oliver Bearman,Haas,0
+16,Italy,2025-09-07,race,13,Yuki Tsunoda,Red Bull,0
+16,Italy,2025-09-07,race,14,Liam Lawson,Racing Bulls,0
+16,Italy,2025-09-07,race,15,Esteban Ocon,Haas,0
+16,Italy,2025-09-07,race,16,Pierre Gasly,Alpine,0
+16,Italy,2025-09-07,race,17,Franco Colapinto,Alpine,0
+16,Italy,2025-09-07,race,18,Lance Stroll,Aston Martin,0
+16,Italy,2025-09-07,race,19,Fernando Alonso,Aston Martin,0
+16,Italy,2025-09-07,race,20,Nico Hulkenberg,Kick Sauber,0
+2,China,2025-03-23,sprint,1,Lewis Hamilton,Ferrari,8
+2,China,2025-03-23,sprint,2,Oscar Piastri,McLaren,7
+2,China,2025-03-23,sprint,3,Max Verstappen,Red Bull,6
+2,China,2025-03-23,sprint,4,George Russell,Mercedes,5
+2,China,2025-03-23,sprint,5,Charles Leclerc,Ferrari,4
+2,China,2025-03-23,sprint,6,Yuki Tsunoda,Racing Bulls,3
+2,China,2025-03-23,sprint,7,Kimi Antonelli,Mercedes,2
+2,China,2025-03-23,sprint,8,Lando Norris,McLaren,1
+2,China,2025-03-23,sprint,9,Lance Stroll,Aston Martin,0
+2,China,2025-03-23,sprint,10,Fernando Alonso,Aston Martin,0
+2,China,2025-03-23,sprint,11,Alexander Albon,Williams,0
+2,China,2025-03-23,sprint,12,Pierre Gasly,Alpine,0
+2,China,2025-03-23,sprint,13,Isack Hadjar,Racing Bulls,0
+2,China,2025-03-23,sprint,14,Liam Lawson,Red Bull,0
+2,China,2025-03-23,sprint,15,Oliver Bearman,Haas,0
+2,China,2025-03-23,sprint,16,Esteban Ocon,Haas,0
+2,China,2025-03-23,sprint,17,Carlos Sainz,Williams,0
+2,China,2025-03-23,sprint,18,Gabriel Bortoleto,Kick Sauber,0
+2,China,2025-03-23,sprint,19,Nico Hulkenberg,Kick Sauber,0
+2,China,2025-03-23,sprint,20,Jack Doohan,Alpine,0
+6,Miami,2025-05-04,sprint,1,Lando Norris,McLaren,8
+6,Miami,2025-05-04,sprint,2,Oscar Piastri,McLaren,7
+6,Miami,2025-05-04,sprint,3,Lewis Hamilton,Ferrari,6
+6,Miami,2025-05-04,sprint,4,George Russell,Mercedes,5
+6,Miami,2025-05-04,sprint,5,Lance Stroll,Aston Martin,4
+6,Miami,2025-05-04,sprint,6,Yuki Tsunoda,Red Bull,3
+6,Miami,2025-05-04,sprint,7,Kimi Antonelli,Mercedes,2
+6,Miami,2025-05-04,sprint,8,Pierre Gasly,Alpine,1
+6,Miami,2025-05-04,sprint,9,Nico Hulkenberg,Kick Sauber,0
+6,Miami,2025-05-04,sprint,10,Isack Hadjar,Racing Bulls,0
+6,Miami,2025-05-04,sprint,11,Alexander Albon,Williams,0
+6,Miami,2025-05-04,sprint,12,Esteban Ocon,Haas,0
+6,Miami,2025-05-04,sprint,13,Liam Lawson,Racing Bulls,0
+6,Miami,2025-05-04,sprint,14,Oliver Bearman,Haas,0
+6,Miami,2025-05-04,sprint,15,Gabriel Bortoleto,Kick Sauber,0
+6,Miami,2025-05-04,sprint,16,Jack Doohan,Alpine,0
+6,Miami,2025-05-04,sprint,17,Max Verstappen,Red Bull,0
+6,Miami,2025-05-04,sprint,18,Fernando Alonso,Aston Martin,0
+6,Miami,2025-05-04,sprint,19,Carlos Sainz,Williams,0
+6,Miami,2025-05-04,sprint,20,Charles Leclerc,Ferrari,0
+13,Belgium,2025-07-27,sprint,1,Max Verstappen,Red Bull,8
+13,Belgium,2025-07-27,sprint,2,Oscar Piastri,McLaren,7
+13,Belgium,2025-07-27,sprint,3,Lando Norris,McLaren,6
+13,Belgium,2025-07-27,sprint,4,Charles Leclerc,Ferrari,5
+13,Belgium,2025-07-27,sprint,5,Esteban Ocon,Haas,4
+13,Belgium,2025-07-27,sprint,6,Carlos Sainz,Williams,3
+13,Belgium,2025-07-27,sprint,7,Oliver Bearman,Haas,2
+13,Belgium,2025-07-27,sprint,8,Isack Hadjar,Racing Bulls,1
+13,Belgium,2025-07-27,sprint,9,Gabriel Bortoleto,Kick Sauber,0
+13,Belgium,2025-07-27,sprint,10,Liam Lawson,Racing Bulls,0
+13,Belgium,2025-07-27,sprint,11,Yuki Tsunoda,Red Bull,0
+13,Belgium,2025-07-27,sprint,12,George Russell,Mercedes,0
+13,Belgium,2025-07-27,sprint,13,Lance Stroll,Aston Martin,0
+13,Belgium,2025-07-27,sprint,14,Fernando Alonso,Aston Martin,0
+13,Belgium,2025-07-27,sprint,15,Lewis Hamilton,Ferrari,0
+13,Belgium,2025-07-27,sprint,16,Alexander Albon,Williams,0
+13,Belgium,2025-07-27,sprint,17,Kimi Antonelli,Mercedes,0
+13,Belgium,2025-07-27,sprint,18,Nico Hulkenberg,Kick Sauber,0
+13,Belgium,2025-07-27,sprint,19,Franco Colapinto,Alpine,0
+13,Belgium,2025-07-27,sprint,20,Pierre Gasly,Alpine,0

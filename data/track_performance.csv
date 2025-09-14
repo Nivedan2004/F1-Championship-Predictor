@@ -1,0 +1,231 @@
+grand_prix,team,pace_index,reliability
+Bahrain,McLaren,1.08,0.97
+Bahrain,Red Bull,1.06,0.98
+Bahrain,Ferrari,1.02,0.97
+Bahrain,Mercedes,1.01,0.96
+Bahrain,Williams,0.95,0.94
+Bahrain,Racing Bulls,0.92,0.93
+Bahrain,Kick Sauber,0.89,0.92
+Bahrain,Aston Martin,0.88,0.91
+Bahrain,Haas,0.85,0.90
+Bahrain,Alpine,0.82,0.89
+Saudi Arabia,McLaren,1.07,0.97
+Saudi Arabia,Red Bull,1.05,0.98
+Saudi Arabia,Ferrari,1.01,0.97
+Saudi Arabia,Mercedes,1.00,0.96
+Saudi Arabia,Williams,0.94,0.94
+Saudi Arabia,Racing Bulls,0.91,0.93
+Saudi Arabia,Kick Sauber,0.88,0.92
+Saudi Arabia,Aston Martin,0.87,0.91
+Saudi Arabia,Haas,0.84,0.90
+Saudi Arabia,Alpine,0.81,0.89
+Australia,McLaren,1.07,0.97
+Australia,Red Bull,1.04,0.98
+Australia,Ferrari,1.01,0.97
+Australia,Mercedes,1.00,0.96
+Australia,Williams,0.93,0.94
+Australia,Racing Bulls,0.90,0.93
+Australia,Kick Sauber,0.87,0.92
+Australia,Aston Martin,0.86,0.91
+Australia,Haas,0.83,0.90
+Australia,Alpine,0.80,0.89
+Japan,McLaren,1.08,0.97
+Japan,Red Bull,1.06,0.98
+Japan,Ferrari,1.02,0.97
+Japan,Mercedes,1.01,0.96
+Japan,Williams,0.95,0.94
+Japan,Racing Bulls,0.92,0.93
+Japan,Kick Sauber,0.89,0.92
+Japan,Aston Martin,0.88,0.91
+Japan,Haas,0.85,0.90
+Japan,Alpine,0.82,0.89
+China,McLaren,1.07,0.97
+China,Red Bull,1.05,0.98
+China,Ferrari,1.01,0.97
+China,Mercedes,1.00,0.96
+China,Williams,0.94,0.94
+China,Racing Bulls,0.91,0.93
+China,Kick Sauber,0.88,0.92
+China,Aston Martin,0.87,0.91
+China,Haas,0.84,0.90
+China,Alpine,0.81,0.89
+Miami,McLaren,1.08,0.97
+Miami,Red Bull,1.06,0.98
+Miami,Ferrari,1.02,0.97
+Miami,Mercedes,1.01,0.96
+Miami,Williams,0.95,0.94
+Miami,Racing Bulls,0.92,0.93
+Miami,Kick Sauber,0.89,0.92
+Miami,Aston Martin,0.88,0.91
+Miami,Haas,0.85,0.90
+Miami,Alpine,0.82,0.89
+Emilia Romagna,McLaren,1.07,0.97
+Emilia Romagna,Red Bull,1.05,0.98
+Emilia Romagna,Ferrari,1.01,0.97
+Emilia Romagna,Mercedes,1.00,0.96
+Emilia Romagna,Williams,0.94,0.94
+Emilia Romagna,Racing Bulls,0.91,0.93
+Emilia Romagna,Kick Sauber,0.88,0.92
+Emilia Romagna,Aston Martin,0.87,0.91
+Emilia Romagna,Haas,0.84,0.90
+Emilia Romagna,Alpine,0.81,0.89
+Monaco,McLaren,1.08,0.97
+Monaco,Red Bull,1.06,0.98
+Monaco,Ferrari,1.02,0.97
+Monaco,Mercedes,1.01,0.96
+Monaco,Williams,0.95,0.94
+Monaco,Racing Bulls,0.92,0.93
+Monaco,Kick Sauber,0.89,0.92
+Monaco,Aston Martin,0.88,0.91
+Monaco,Haas,0.85,0.90
+Monaco,Alpine,0.82,0.89
+Spain,McLaren,1.07,0.97
+Spain,Red Bull,1.05,0.98
+Spain,Ferrari,1.01,0.97
+Spain,Mercedes,1.00,0.96
+Spain,Williams,0.94,0.94
+Spain,Racing Bulls,0.91,0.93
+Spain,Kick Sauber,0.88,0.92
+Spain,Aston Martin,0.87,0.91
+Spain,Haas,0.84,0.90
+Spain,Alpine,0.81,0.89
+Austria,McLaren,1.08,0.97
+Austria,Red Bull,1.06,0.98
+Austria,Ferrari,1.02,0.97
+Austria,Mercedes,1.01,0.96
+Austria,Williams,0.95,0.94
+Austria,Racing Bulls,0.92,0.93
+Austria,Kick Sauber,0.89,0.92
+Austria,Aston Martin,0.88,0.91
+Austria,Haas,0.85,0.90
+Austria,Alpine,0.82,0.89
+Great Britain,McLaren,1.08,0.97
+Great Britain,Red Bull,1.06,0.98
+Great Britain,Ferrari,1.02,0.97
+Great Britain,Mercedes,1.01,0.96
+Great Britain,Williams,0.95,0.94
+Great Britain,Racing Bulls,0.92,0.93
+Great Britain,Kick Sauber,0.89,0.92
+Great Britain,Aston Martin,0.88,0.91
+Great Britain,Haas,0.85,0.90
+Great Britain,Alpine,0.82,0.89
+Belgium,McLaren,1.07,0.97
+Belgium,Red Bull,1.05,0.98
+Belgium,Ferrari,1.01,0.97
+Belgium,Mercedes,1.00,0.96
+Belgium,Williams,0.94,0.94
+Belgium,Racing Bulls,0.91,0.93
+Belgium,Kick Sauber,0.88,0.92
+Belgium,Aston Martin,0.87,0.91
+Belgium,Haas,0.84,0.90
+Belgium,Alpine,0.81,0.89
+Hungary,McLaren,1.08,0.97
+Hungary,Red Bull,1.06,0.98
+Hungary,Ferrari,1.02,0.97
+Hungary,Mercedes,1.01,0.96
+Hungary,Williams,0.95,0.94
+Hungary,Racing Bulls,0.92,0.93
+Hungary,Kick Sauber,0.89,0.92
+Hungary,Aston Martin,0.88,0.91
+Hungary,Haas,0.85,0.90
+Hungary,Alpine,0.82,0.89
+Netherlands,McLaren,1.08,0.97
+Netherlands,Red Bull,1.06,0.98
+Netherlands,Ferrari,1.02,0.97
+Netherlands,Mercedes,1.01,0.96
+Netherlands,Williams,0.95,0.94
+Netherlands,Racing Bulls,0.92,0.93
+Netherlands,Kick Sauber,0.89,0.92
+Netherlands,Aston Martin,0.88,0.91
+Netherlands,Haas,0.85,0.90
+Netherlands,Alpine,0.82,0.89
+Italy,McLaren,1.07,0.97
+Italy,Red Bull,1.05,0.98
+Italy,Ferrari,1.01,0.97
+Italy,Mercedes,1.00,0.96
+Italy,Williams,0.94,0.94
+Italy,Racing Bulls,0.91,0.93
+Italy,Kick Sauber,0.88,0.92
+Italy,Aston Martin,0.87,0.91
+Italy,Haas,0.84,0.90
+Italy,Alpine,0.81,0.89
+Azerbaijan,McLaren,1.08,0.97
+Azerbaijan,Red Bull,1.06,0.98
+Azerbaijan,Ferrari,1.02,0.97
+Azerbaijan,Mercedes,1.01,0.96
+Azerbaijan,Williams,0.95,0.94
+Azerbaijan,Racing Bulls,0.92,0.93
+Azerbaijan,Kick Sauber,0.89,0.92
+Azerbaijan,Aston Martin,0.88,0.91
+Azerbaijan,Haas,0.85,0.90
+Azerbaijan,Alpine,0.82,0.89
+Singapore,McLaren,1.07,0.97
+Singapore,Red Bull,1.05,0.98
+Singapore,Ferrari,1.01,0.97
+Singapore,Mercedes,1.00,0.96
+Singapore,Williams,0.94,0.94
+Singapore,Racing Bulls,0.91,0.93
+Singapore,Kick Sauber,0.88,0.92
+Singapore,Aston Martin,0.87,0.91
+Singapore,Haas,0.84,0.90
+Singapore,Alpine,0.81,0.89
+USA Austin,McLaren,1.08,0.97
+USA Austin,Red Bull,1.06,0.98
+USA Austin,Ferrari,1.02,0.97
+USA Austin,Mercedes,1.01,0.96
+USA Austin,Williams,0.95,0.94
+USA Austin,Racing Bulls,0.92,0.93
+USA Austin,Kick Sauber,0.89,0.92
+USA Austin,Aston Martin,0.88,0.91
+USA Austin,Haas,0.85,0.90
+USA Austin,Alpine,0.82,0.89
+Mexico,McLaren,1.07,0.97
+Mexico,Red Bull,1.05,0.98
+Mexico,Ferrari,1.01,0.97
+Mexico,Mercedes,1.00,0.96
+Mexico,Williams,0.94,0.94
+Mexico,Racing Bulls,0.91,0.93
+Mexico,Kick Sauber,0.88,0.92
+Mexico,Aston Martin,0.87,0.91
+Mexico,Haas,0.84,0.90
+Mexico,Alpine,0.81,0.89
+Brazil,McLaren,1.08,0.97
+Brazil,Red Bull,1.06,0.98
+Brazil,Ferrari,1.02,0.97
+Brazil,Mercedes,1.01,0.96
+Brazil,Williams,0.95,0.94
+Brazil,Racing Bulls,0.92,0.93
+Brazil,Kick Sauber,0.89,0.92
+Brazil,Aston Martin,0.88,0.91
+Brazil,Haas,0.85,0.90
+Brazil,Alpine,0.82,0.89
+Las Vegas,McLaren,1.07,0.97
+Las Vegas,Red Bull,1.05,0.98
+Las Vegas,Ferrari,1.01,0.97
+Las Vegas,Mercedes,1.00,0.96
+Las Vegas,Williams,0.94,0.94
+Las Vegas,Racing Bulls,0.91,0.93
+Las Vegas,Kick Sauber,0.88,0.92
+Las Vegas,Aston Martin,0.87,0.91
+Las Vegas,Haas,0.84,0.90
+Las Vegas,Alpine,0.81,0.89
+Qatar,McLaren,1.08,0.97
+Qatar,Red Bull,1.06,0.98
+Qatar,Ferrari,1.02,0.97
+Qatar,Mercedes,1.01,0.96
+Qatar,Williams,0.95,0.94
+Qatar,Racing Bulls,0.92,0.93
+Qatar,Kick Sauber,0.89,0.92
+Qatar,Aston Martin,0.88,0.91
+Qatar,Haas,0.85,0.90
+Qatar,Alpine,0.82,0.89
+Abu Dhabi,McLaren,1.07,0.97
+Abu Dhabi,Red Bull,1.05,0.98
+Abu Dhabi,Ferrari,1.01,0.97
+Abu Dhabi,Mercedes,1.00,0.96
+Abu Dhabi,Williams,0.94,0.94
+Abu Dhabi,Racing Bulls,0.91,0.93
+Abu Dhabi,Kick Sauber,0.88,0.92
+Abu Dhabi,Aston Martin,0.87,0.91
+Abu Dhabi,Haas,0.84,0.90
+Abu Dhabi,Alpine,0.81,0.89
